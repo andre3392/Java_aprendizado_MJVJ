@@ -15,7 +15,7 @@ public class Aula05EstruturasCondicionais02 {
             System.out.println("Categoria Juvenil");
         }
         else{
-            System.out.println("Categoria Adulto");
+            System.out.println("Categoria Adultooo");
         }
     }
 }
